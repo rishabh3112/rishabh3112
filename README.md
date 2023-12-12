@@ -1,7 +1,7 @@
 ### 👋 Hey!
 I am Rishabh this side!
 
-👨‍💻 Code Lover &nbsp;&nbsp; 🌏 OSS @webpack &nbsp;&nbsp; 👨‍🎓 Student at DTU &nbsp;&nbsp; ❤ JS, C++, Python
+👨‍💻 Code Lover &nbsp;&nbsp; 🌏 OSS @webpack &nbsp;&nbsp; 👨🏽‍💻 Product Engineer at Sprinklr &nbsp;&nbsp; ❤ JS, C++, Python
 
 ### Let's connect!
 <a style="padding: 10px;" href="https://linkedin.com/in/rishabh3112"><img width="25px" src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" /></a>&nbsp;&nbsp;
